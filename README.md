@@ -1,6 +1,35 @@
 # 4_hybrid_quantum_optimization
 
-README MUST HAVE (in this order)
+
+
+Machine Learning with Quantum Computers (2nd ed.) — Schuld & Petruccione
+➤ Primary book
+
+A Practical Guide to Quantum Machine Learning & Quantum Optimization — El Mrabet et al.
+➤ Practical implementation
+
+Programming Quantum Computers — Johnston et al.
+➤ Algorithmic support
+
+Building Quantum Software in Python — Charlee Stefanski
+➤ Code structure
+
+(Yes, this repo draws from multiple books — that’s why it’s the flagship.)
+
+What knowledge comes from these books
+
+Hybrid quantum–classical loops
+
+Variational circuits (VQE / QAOA)
+
+Classical optimizers
+
+Noise awareness
+
+Hardware vs simulator tradeoffs
+
+
+## README MUST HAVE (in this order)
 
 Problem Statement
 
